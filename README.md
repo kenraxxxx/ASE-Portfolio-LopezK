@@ -1,8 +1,8 @@
 
 # Agentic Software Engineering Portfolio
 
-**Course Code:** CPELX230-330  
-**Course Title:** CPE Elective 2 and 3 (Agentic Software Engineering)  
+**Course Code:** CPELX330  
+**Course Title:** CpE Elective 3  
 **Academic Year:** 2026-2027  
 **Term:** Term 2  
 **Program:** Bachelor of Science in Computer Engineering
