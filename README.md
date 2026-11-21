@@ -1,24 +1,37 @@
+
 # Agentic Software Engineering Portfolio
 
-**Course:** CPELX230-330  
-**Term:** Term 2, Academic Year 2026-2027  
-**Activity:** Week 02-04 – Exploring Agentic Software Engineering and Responsible AI
+**Course Code:** CPELX230-330  
+**Course Title:** CPE Elective 2 and 3 (Agentic Software Engineering)  
+**Academic Year:** 2026-2027  
+**Term:** Term 2  
+**Program:** Bachelor of Science in Computer Engineering
 
-## About This Repository
+## About This Portfolio
 
-This repository contains my learning activities and reflections about Agentic Software Engineering and Responsible AI. It includes my course introduction, personal learning goals, and reflection on the concepts discussed in the activity.
+This repository serves as my academic portfolio for Agentic Software Engineering. It contains my course introduction, personal learning goals, and reflection on the concepts discussed in the course.
 
-## Contents
+It documents my understanding of AI-powered software systems, software engineering practices, GitHub collaboration, and responsible AI development.
 
-1. [Course Introduction](Course-Introduction.md)
-2. [Personal Learning Goals](Personal-Learning-Goals.md)
-3. [Reflection from Part A](Reflection-from-Part-A.md)
+## Portfolio Contents
 
-## Learning Focus
+1. Course Introduction
+2. Personal Learning Goals
+3. Reflection from Part A
 
-- Agentic Software Engineering
-- Artificial Intelligence and Intelligent Agents
-- Agile Software Development
-- Git and Version Control
-- Responsible AI Development
-- AI Safety, Security, and Ethics
+## Course Focus
+
+- Agentic Software Engineering Foundations
+- AI Agents and Modern Software Systems
+- Software Development Life Cycle (SDLC)
+- Agile and Scrum Methodologies
+- Git and GitHub Workflow
+- Responsible AI Principles
+- Requirements Engineering
+- Agent Architecture and Development
+- Software Testing and Agent Evaluation
+- Deployment, CI/CD, and Monitoring
+
+## Purpose
+
+The purpose of this portfolio is to document my learning progress and understanding of Agentic Software Engineering throughout the semester.
