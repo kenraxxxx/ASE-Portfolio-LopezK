@@ -15,11 +15,12 @@ It documents my understanding of AI-powered software systems, software engineeri
 
 
 
+
 ## Portfolio Contents
 
-1. [Course Introduction](course-introduction.md)
-2. [Personal Learning Goals](personal-learning-goals.md)
-3. [Reflection from Part A](reflection-from-part-a.md)
+1. [Course Introduction](./course-Introduction.md)
+2. [Personal Learning Goals](./personal-learning-goals.md)
+3. [Reflection from Part A](./reflection-from-part-a.md)
 
 
 ## Course Focus
