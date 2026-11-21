@@ -14,11 +14,13 @@ This repository serves as my academic portfolio for Agentic Software Engineering
 It documents my understanding of AI-powered software systems, software engineering practices, GitHub collaboration, and responsible AI development.
 
 
+
 ## Portfolio Contents
 
 1. [Course Introduction](course-introduction.md)
 2. [Personal Learning Goals](personal-learning-goals.md)
 3. [Reflection from Part A](reflection-from-part-a.md)
+
 
 ## Course Focus
 
